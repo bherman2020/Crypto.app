@@ -4,13 +4,6 @@ import axios from 'axios';
 import Coin from './Components/Coin';
 import SearchIcon from '@material-ui/icons/Search';
 
-// import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-
-
-
-
-
-
 function App() {
 
 /*use useEffect with axios to get info when the Api calls */
